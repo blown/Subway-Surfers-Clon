@@ -12,6 +12,17 @@ Animations
     <li>Obstacles roll</li>
     <li>Lateral collision</li>
     <li>Frontal collision</li>
+    <li>Dodge Right</li>
+    <li>Dodge Left</li>
+    <li>Stumble Low</li>
+    <li>Stumble Fall</li>
+    <li>Stumble Off Left</li>
+    <li>Stumble Off Right</li>
+    <li>Stumble Side Left</li>
+    <li>Stumble Side Right</li>
+    <li>Death Bounce</li>
+    <li>Death Lower</li>
+    <li>Death moving train</li>
     <li>Death against screen</li>
        
 </ul>
