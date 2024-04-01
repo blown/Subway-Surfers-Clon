@@ -20,22 +20,26 @@ Animations
 <h2>
 Lane change 
 </h2>
-![lane change](https://github.com/blown/Subway-Surfers-Clon/assets/5203902/dd12f5a0-fc82-4658-ad2a-294757da1a31)
+
+![lane change](https://github.com/blown/Subway-Surfers-Clon/assets/5203902/9d13896f-8a92-4bcc-9e63-ab93326415f8)
 
 <h2>
 Jump and roll
 </h2>
-![jump and roll](https://github.com/blown/Subway-Surfers-Clon/assets/5203902/1a9162aa-b867-4e93-bbb2-2e8ef03347dc)
+
+![jump and roll](https://github.com/blown/Subway-Surfers-Clon/assets/5203902/73ca2c18-b43b-4a7f-8244-67147443765b)
 
 <h2>
 Frontal collision
 </h2>
-![frontal collision](https://github.com/blown/Subway-Surfers-Clon/assets/5203902/0cf24201-5e22-4ce4-bd90-8dea47cb5506)
+
+![frontal collision](https://github.com/blown/Subway-Surfers-Clon/assets/5203902/97450ad1-2ef9-4166-8866-ca1965570752)
 
 <h2>
 Lateral collision 
 </h2>
-![lateral collision](https://github.com/blown/Subway-Surfers-Clon/assets/5203902/ba54cb84-e5cb-46c2-9ffe-432d7dc29538)
+
+![lateral collision](https://github.com/blown/Subway-Surfers-Clon/assets/5203902/434c2274-5649-4563-97f4-1ae7f2f57351)
 
 <h2>
 Death against screen 
